@@ -25,7 +25,7 @@ setup(
         "crypto",
         "bitcoin",
     ],
-    install_requires=["requests==2.31.0"],
+    install_requires=["requests==2.32.4"],
     classifiers=[
         # "3 - Alpha", "4 - Beta" or "5 - Production/Stable"
         "Development Status :: 4 - Beta",
